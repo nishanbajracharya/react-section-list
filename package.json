@@ -1,9 +1,11 @@
 {
   "name": "react-section-list",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A section list component based on react-virtualized",
   "main": "lib.js",
-  "files": ["lib.js"],
+  "files": [
+    "lib.js"
+  ],
   "scripts": {
     "build": "babel index.js -o lib.js"
   },
