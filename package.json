@@ -5,8 +5,7 @@
   "main": "lib.js",
   "files": ["lib.js"],
   "scripts": {
-    "build": "babel index.js -o lib.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "babel index.js -o lib.js"
   },
   "repository": {
     "type": "git",
