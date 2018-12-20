@@ -1,6 +1,6 @@
 {
   "name": "react-sectionlist-virtualized",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A section list component based on react-virtualized",
   "main": "lib.js",
   "files": [
