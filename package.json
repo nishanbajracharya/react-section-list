@@ -1,0 +1,43 @@
+{
+  "name": "react-section-list",
+  "version": "0.0.1",
+  "description": "A section list component based on react-virtualized",
+  "main": "lib.js",
+  "files": ["lib.js"],
+  "scripts": {
+    "build": "babel index.js -o lib.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nishanbajracharya/react-section-list.git"
+  },
+  "keywords": [
+    "react",
+    "virtualized",
+    "section",
+    "list",
+    "react-virtualized"
+  ],
+  "author": "Nishan Bajracharya <nisbaj11@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nishanbajracharya/react-section-list/issues"
+  },
+  "homepage": "https://github.com/nishanbajracharya/react-section-list#readme",
+  "peerDependencies": {
+    "react": "^16.7.0",
+    "react-dom": "^16.7.0"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.2.3",
+    "@babel/core": "^7.2.2",
+    "@babel/plugin-proposal-class-properties": "^7.2.3",
+    "@babel/preset-env": "^7.2.3",
+    "@babel/preset-react": "^7.0.0",
+    "prop-types": "^15.6.2"
+  },
+  "dependencies": {
+    "react-virtualized": "^9.21.0"
+  }
+}
