@@ -11,21 +11,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nishanbajracharya/react-section-list.git"
+    "url": "git+https://github.com/nishanbajracharya/react-sectionlist-virtualized.git"
   },
   "keywords": [
     "react",
     "virtualized",
-    "section",
-    "list",
+    "section-list",
     "react-virtualized"
   ],
   "author": "Nishan Bajracharya <nisbaj11@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/nishanbajracharya/react-section-list/issues"
+    "url": "https://github.com/nishanbajracharya/react-sectionlist-virtualized/issues"
   },
-  "homepage": "https://github.com/nishanbajracharya/react-section-list#readme",
+  "homepage": "https://github.com/nishanbajracharya/react-sectionlist-virtualized#readme",
   "peerDependencies": {
     "react": "^16.7.0",
     "react-dom": "^16.7.0"
